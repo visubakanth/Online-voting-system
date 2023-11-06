@@ -1,0 +1,75 @@
+@charset "ISO-8859-1";
+.box
+{
+	background-image:url("https://cdn2.vectorstock.com/i/1000x1000/67/21/voting-hand-with-india-map-and-parliament-symbol-vector-41476721.jpg");
+   background-color:#cccccc;
+   height:700px;
+   background-position:center;
+   background-repeat:no-repeat;
+   background-size:cover;
+   position:relative;
+   
+    
+
+}
+.center
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+h2{
+    text-decoration-line: underline;
+}
+h2{
+    text-decoration-color:green;
+}
+h2{
+    text-decoration-style:dotted;
+}
+h2{
+    text-decoration-thickness: 5px;
+}
+h2
+{
+	background-color:rgb(255,0,0);
+}
+.btn-1:hover
+{
+	box-shadow:inset -10.5em 0 0 0
+	#ff96ad,inset 10.5em 0 0 0 #ff96ad;
+}
+.box1
+{
+	background-image:url("https://images.newindianexpress.com/uploads/user/imagelibrary/2022/11/3/w1200X800/Leaders_all1.jpg");
+     background-color:#cccccc;
+   height:700px;
+   background-position:center;
+   background-repeat:no-repeat;
+   background-size:cover;
+   position:relative;
+
+}
+.box3
+{
+	background-image:url("https://img.favpng.com/22/0/24/lion-capital-of-ashoka-sarnath-pillars-of-ashoka-government-of-india-state-emblem-of-india-png-favpng-EuesrAtvardy0CC8spzEVRDrK.jpg");
+     background-color:#cccccc;
+   height:800px;
+   width:1000px;
+   background-position:center;
+   background-repeat:no-repeat;
+   background-size:cover;
+   position:relative;
+}
+h4{
+	color:red;
+}
+h3{
+	color:blue;
+}
+h5{
+	color:green;
+	}
+	
+	h1{
+	color:red;
+	}
